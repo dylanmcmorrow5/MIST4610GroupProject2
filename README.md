@@ -4,10 +4,10 @@
 39217 Group 7
 ## Team Members
 1. Dylan McMorrow [@DylanMcMorrow](https://github.com/dylanmcmorrow5/MIST4610GroupProject2.git)
-2. Aafreen Anjum [@AafreenAnjum]
-3. Jack Drummond [@JackDrummond]
-4. Ishi Gupta [@IshiGupta]
-5. Miral Lakhani [@MiralLakhani]
+2. Aafreen Anjum [@AafreenAnjum](https://github.com/aanjum2003/NYPDcrime/blob/main/README.md)
+3. Jack Drummond [@JackDrummond](https://github.com/jdrum7/NYPD_Crime_Data)
+4. Ishi Gupta [@IshiGupta](https://github.com/ishigupta24/NYPD-crime)
+5. Miral Lakhani [@MiralLakhani](https://github.com/mirLakhani/NYDPcrime/blob/main/README.md)
 
 
 ## Description of Dataset:
