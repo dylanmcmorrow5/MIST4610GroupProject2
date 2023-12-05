@@ -27,7 +27,8 @@ Upon completing our analysis using Tableau, the data reveals that Brooklyn has t
 
 <img width="1226" alt="Question 1B" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject2/assets/148798141/d1b52741-d91d-4b8c-a748-ba02f95768ca">
 
-In order to further our investigation, we looked at the racial distribution of arrests in Brooklyn for those aged 25 to 44. This extra layer of information is helpful because it offers a more complex picture of the demographics associated with these arrests. This helps identify any potential disparities or patterns that can guide focused intervention efforts through social programs and advance equity in law enforcement procedures.
+In order to further our investigation, we looked at the racial distribution of arrests in Brooklyn for those aged 25 to 44 using a heatmap. The darker shades of blue along with a larger size of the blocks indicated a higher number of assault arrests. This extra layer of information is helpful because it offers a more complex picture of the demographics associated with these arrests. This helps identify any potential disparities or patterns that can guide focused intervention efforts through social programs and advance equity in law enforcement procedures. It is clear the highest arrest count is for black individuals, highlighting a serious need for reform in Brooklyn.
+
 
 
 ## Question 2:
