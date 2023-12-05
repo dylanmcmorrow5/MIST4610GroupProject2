@@ -41,14 +41,16 @@ Understanding the months in the current year with the highest volume of arrests 
 
 This information is a powerful tool for raising public awareness. Knowing which months have higher arrest rates can help people be more vigilant and take preventative action during these times, improving both personal and community safety. By delving deeper into the particular crimes that are most commonly reported in those arrests, the second half of the question expands on the first by offering more context. Understanding the types of crimes makes it possible for the public to become more informed about the kinds of criminal activity that are common throughout particular months.
 
-<img width="1219" alt="Question 2A" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject2/assets/148798141/79731491-3ae8-4041-890d-db10ed20206b">
+<img width="1225" alt="Question 2A" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject2/assets/148798141/50b61fec-b960-42f4-876b-fca6cddc67c3">
 
-We created a visual representation of the total arrest counts per month using a line graph. January through August contain actual data from the dataset, while September through December are estimates based on Tableau’s forecasting tool. May clearly displays the highest arrest count, while February dips low on the graph, reflecting the lowest arrest count. Based on our analysis law enforcement can focus on increasing visibility and presence in areas during May, the month identified with the highest number of arrests.
+
+We created a visual representation of the total arrest counts per month using a line graph. January through August contain actual data from the dataset, while September through December are estimates based on Tableau’s forecasting tool. We decided to modify the range on the y-axis to 15,000 - 22,000 arrests to more accurately depict changes from month to month. Before this change, the line appeared a lot flatter since the range went from 0 - 23,000 arrests, making it more difficult to compare the different months. After modifying the axis, May clearly displays the highest arrest count, while February dips low on the graph, reflecting the lowest arrest count. Based on our analysis law enforcement can focus on increasing visibility and presence in areas during May, the month identified with the highest number of arrests.
+
 
 <img width="1225" alt="Question 2B" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject2/assets/148798141/9e0ab630-a561-4ef3-b587-2d18033fcff0">
 
 
-In order to shed more insight on the most common offenses, we expanded our analysis by examining the most common crimes for May because it is the month with the most arrests. According to our analysis, assault was consistently the most common offense, with petit larceny coming in second. This information is essential because it gives law enforcement a thorough grasp of the kinds of crimes that frequently lead to arrest rates. Law enforcement agencies can tailor their strategies and allocate resources effectively to address these specific challenges. 
+In order to shed more insight on the most common offenses, we expanded our analysis by examining the most common crimes for May because it is the month with the most arrests. According to our analysis, assault was consistently the most common offense, with petit larceny coming in second. This information is essential because it gives law enforcement a thorough grasp of the kinds of crimes that frequently lead to arrest rates. Law enforcement agencies can tailor their strategies and allocate resources effectively to address these specific challenges during May in hopes to reduce the number of arrests to a number closer to other months of the year.
 
 
 ## Manipulations Applied to the Dataset:
