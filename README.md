@@ -3,11 +3,11 @@
 ## Team Name:
 39217 Group 7
 ## Team Members
-1. Dylan McMorrow
-2. Aafreen Anjum
-3. Jack Drummond
-4. Ishi Gupta
-5. Miral Lakhani
+1. Dylan McMorrow [@DylanMcMorrow](https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md)
+2. Aafreen Anjum [@AafreenAnjum]
+3. Jack Drummond [@JackDrummond]
+4. Ishi Gupta [@IshiGupta]
+5. Miral Lakhani [@MiralLakhani]
 
 
 ## Description of Dataset:
