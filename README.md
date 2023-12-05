@@ -45,7 +45,8 @@ This information is a powerful tool for raising public awareness. Knowing which 
 
 We created a visual representation of the total arrest counts per month using a line graph. January through August contain actual data from the dataset, while September through December are estimates based on Tableau’s forecasting tool. May clearly displays the highest arrest count, while February dips low on the graph, reflecting the lowest arrest count. Based on our analysis law enforcement can focus on increasing visibility and presence in areas during May, the month identified with the highest number of arrests.
 
-<img width="1221" alt="Question 2B" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject2/assets/148798141/c95c0eca-5526-41f0-95f8-26a643d0700c">
+<img width="1225" alt="Question 2B" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject2/assets/148798141/9e0ab630-a561-4ef3-b587-2d18033fcff0">
+
 
 In order to shed more insight on the most common offenses, we expanded our analysis by examining the most common crimes for May because it is the month with the most arrests. According to our analysis, assault was consistently the most common offense, with petit larceny coming in second. This information is essential because it gives law enforcement a thorough grasp of the kinds of crimes that frequently lead to arrest rates. Law enforcement agencies can tailor their strategies and allocate resources effectively to address these specific challenges. 
 
