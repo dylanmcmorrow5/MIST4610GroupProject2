@@ -25,7 +25,8 @@ Understanding the distribution of assault arrests across New York City's borough
 
 Upon completing our analysis using Tableau, the data reveals that Brooklyn has the highest count of assault arrests. The criminal offenses we selected are “Felony Assault” and “Assault 3 and Related Offenses”.  This insight is visually represented through the utilization of a stacked bar graph. Brooklyn has the most total arrests for assault of any borough at 11,164, with the Bronx just behind at 11,097. Staten Island has by far the least assault arrests, at 1,685. Across each borough, the age range with the greatest number of assault arrests is between 25 and 44 years old. Brooklyn also had the highest number of assault arrests for this age range of any borough, totaling 6,541 arrests.
 
-<img width="1213" alt="Question 1B" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject2/assets/148798141/bcc61cda-a546-49a7-9ae6-363507a26808">
+<img width="1223" alt="Question 1B" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject2/assets/148798141/2fc33bf8-2b66-4b26-8d9a-b74da242612b">
+
 
 In order to further our investigation, we looked at the racial distribution of arrests in Brooklyn for those aged 25 to 44. This extra layer of information is helpful because it offers a more complex picture of the demographics associated with these arrests. This helps identify any potential disparities or patterns that can guide focused intervention efforts through social programs and advance equity in law enforcement procedures.
 
